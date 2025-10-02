@@ -10,7 +10,7 @@ YOLOv5:
 
 Connected Component Analysis
 
-![Tracking Demo](ejemplos/imagenes/video_pez_curva5.gif)
+![Tracking Demo](ejemplos/imagenes/video_pezBS.gif)
 
 
 
